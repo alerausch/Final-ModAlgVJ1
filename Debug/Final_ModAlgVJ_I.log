@@ -1,0 +1,17 @@
+﻿  PlayerShip.cpp
+D:\Tecnicatura UNL\Mod y Alg para VJ 1 2020\Proyectos Visual SFML\Final_ModAlgVJ_I\PlayerShip.cpp(8,38): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\Tecnicatura UNL\Mod y Alg para VJ 1 2020\Proyectos Visual SFML\Final_ModAlgVJ_I\PlayerShip.cpp(10,37): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\Tecnicatura UNL\Mod y Alg para VJ 1 2020\Proyectos Visual SFML\Final_ModAlgVJ_I\PlayerShip.cpp(10,19): warning C4244: 'argumento': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+  Final_ModAlgVJ_I.vcxproj -> D:\Tecnicatura UNL\Mod y Alg para VJ 1 2020\Proyectos Visual SFML\Final_ModAlgVJ_I\Debug\Final_ModAlgVJ_I.exe
